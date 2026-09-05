@@ -1,0 +1,21 @@
+# Foreign Giving to UVA: Findings and Recommendations
+
+Conor Stewart
+
+## Executive Summary
+
+Foreign giving to US universities is heavily concentrated in a small number of countries, institutions, and funders, and most of the money moves through organizations rather than individual donors. Qatar gives the most money overall, England gives the most gifts, and Carnegie Mellon receives the most money of any university. UVA receives about 22 million dollars across 98 foreign gifts, the least among its peer group, and most of its foreign money is research contracts, with top partners in Bangladesh, Sweden, and Tanzania, rather than from philanthropy. We recommend UVA expand giving from those existing partners, grow its current AstraZeneca relationship, and enter countries that peer universities already raise money from, especially France and East Asia.
+
+## Results of the Initial Analysis
+
+Across the whole market, the largest flows come from a few countries. Qatar gave about 2.7 billion dollars in total, far ahead of England at 1.5 billion and China at 1.2 billion, while England initiated the most individual gifts. Bermuda gives the largest gifts on average, about 7.7 million dollars per gift. By institution, Carnegie Mellon received the most total money at about 1.5 billion dollars, but UCLA received the most gifts at over 3,900, showing that some schools attract many small donors while others land a few very large relationships. The single largest flow from one country to one institution is Qatar to Cornell, about 1 billion dollars, and the largest giftor in the data is the Qatar Foundation. The mean foreign gift is about 588 thousand dollars while the median is about 95 thousand, because a handful of very large gifts pull the mean upward. Most money arrives as contracts rather than monetary gifts, 17,274 gifts versus 10,936, which means much of foreign giving is really paid research work.
+
+UVA's picture is smaller but follows the same logic. UVA recorded 22.2 million dollars across 98 gifts, two thirds of them contracts, with top countries Bangladesh, Sweden, Tanzania, Switzerland, and England. Its largest giftors are research partners, including the diarrheal disease research centre in Bangladesh, Haydom Lutheran Hospital in Tanzania, and AstraZeneca in Sweden. Compared with peer universities UVA ranks last. Duke received 344 million dollars, Michigan 287 million, Pittsburgh 49 million, North Carolina 41 million, Emory 36 million, and UVA 22 million.
+
+## Recommended Strategy
+
+Based on the analysis, UVA should focus on three strategies to grow foreign giving. First, UVA should grow giving from its existing global health partners in Bangladesh and Tanzania. These partners appear more than once in UVA's gift records, so they are the easiest place to start. Second, UVA should try to get more money from AstraZeneca, a Swedish drug company that already funds UVA. UVA has received about 3.2 million dollars from them across two contracts, while Duke has received about 42.5 million dollars across six contracts with the same company. This shows AstraZeneca is willing to give much more to a school like UVA. Third, UVA should look for money in countries that its peers get money from but UVA does not. Duke received 137 million dollars from France while UVA received only 250 thousand, and Michigan received large gifts from Japan, China, and Korea, and UVA's top five giving countries do not include any large Asian economies. Overall, the data shows that most large foreign gifts come from organizations and companies instead of individual people, so UVA should build research and business relationships overseas rather than looking for individual international donors.
+
+## Prospects
+
+UVA's realistic near term path is not recruiting individual international donors. The data shows the market runs on institutional relationships, and UVA already holds three such relationships in Bangladesh, Tanzania, and Sweden that could be enlarged. Moving UVA to the level of Pittsburgh or North Carolina, roughly 40 to 50 million dollars, appears achievable from those channels alone. Reaching the scale of Michigan or Duke would require a multi year research funding strategy in countries like France and South Korea, which is a larger ambition than the current evidence supports committing to.
